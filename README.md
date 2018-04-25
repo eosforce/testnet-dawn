@@ -14,10 +14,10 @@ Welcome to join EOSForce Testnet!
 ## Run a node with Docker
 * `git clone https://github.com/eosforce/EOSForce-Testnet.git`
 * `cd EOSForce-Testnet`
-* `mkdir -p /data/eos`
-* `cp config.ini /data/eos` and modify the contents with `NOTE:` keyword.
-* `cp genesis.json /data/eos` and don't need to modify anything.
-* `docker run -d --restart=always --name eosforce -v /data/eos:/opt/eosio/bin/data-dir -v /var/eos/nodeos:/root/.local/share/eosio/nodeos -p 8888:8888 -p 9876:9876 eosforce/eos nodeosd.sh`
+* `mkdir -p /data/eosforce`
+* `cp config.ini /data/eosforce` and modify the contents with `NOTE:` keyword.
+* `cp genesis.json /data/eosforce` and don't need to modify anything.
+* `docker run -d --restart=always --name eosforce -v /data/eosforce:/opt/eosio/bin/data-dir -p 8888:8888 -p 9876:9876 eosforce/eos nodeosd.sh`
 
 ## Check Docker status
 * check Docker container running status: `docker container ls`
