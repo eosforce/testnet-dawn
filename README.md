@@ -12,7 +12,7 @@ Welcome to join EOSForce Testnet!
 * Apply to us.
 
 ## Run a node with Docker
-* Generate you EOS key pair: <https://nadejde.github.io/eos-token-sale/>
+* Generate your EOS key pair: <https://nadejde.github.io/eos-token-sale/>
 * `git clone https://github.com/eosforce/EOSForce-Testnet.git`
 * `cd EOSForce-Testnet`
 * `mkdir -p /data/eosforce`
@@ -21,7 +21,7 @@ Welcome to join EOSForce Testnet!
 * `cp genesis.json /data/eosforce` and don't need to modify anything.
 * `docker run -d --restart=always --name eosforce -v /data/eosforce:/opt/eosio/bin/data-dir -v /data/nodeos/eosforce:/root/.local/share/eosio/nodeos -p 8888:8888 -p 9876:9876 eosforce/eos:20180430 nodeosd.sh`
 
-## Register as a candidate producer
+## Register as a candidate BP
 * NOTE: You can send your desired <producer-name> and your EOS key pair to us, we help you to register BP, or do it by your own. Email us: <eosfio2018@gmail.com>, title: Apply for BP, content: your EOS key pair.
 * `docker exec -it eosforce bash`
 * `cleos wallet create`

@@ -1,0 +1,4 @@
+{
+  "producer": "your-producer-name",
+  "producer_key": "your-eos-public-key"
+}
