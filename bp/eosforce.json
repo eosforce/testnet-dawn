@@ -1,0 +1,15 @@
+{
+    "bp_name" : "chainpool",
+    "organisation" : "ChainPool.io",
+    "location" : "Hangzhou, China",
+    "node_addr" : "ortc.io",
+    "port_http" : "8888",
+    "port_ssl" : "",
+    "port_p2p" : "9876",
+    "pub_key" : "EOS6VhjNxYTRNDCHV8Mm1H8c6SzoRre6KfNydpheo4N59xxXajfsr",
+    "bp" : true,
+    "enabled" : true,
+    "site" : "https://chainpool.io",
+    "telegram" : "https://t.me/chainpool",
+    "comment" : ""
+}
