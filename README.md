@@ -22,7 +22,7 @@ Welcome to join EOSForce Testnet!
 * `docker run -d --restart=always --name eosforce -v /data/eosforce:/opt/eosio/bin/data-dir -v /data/nodeos/eosforce:/root/.local/share/eosio/nodeos -p 8888:8888 -p 9876:9876 eosforce/eos:20180430 nodeosd.sh`
 
 ## Register as a candidate BP
-* NOTE: You can send your desired <producer-name> and your EOS key pair to us, we help you to register BP, or do it by your own. Email us: <eosfio2018@gmail.com>, title: Apply for BP, content: your EOS key pair.
+* NOTE: You can send your desired <producer-name> and your EOS key pair to us, we help you to register BP, or do it by your own. Contract us in the telegram group <https://t.me/EOSForce> and contract [@eosforceio](https://t.me/eosforceio).
 * `docker exec -it eosforce bash`
 * `cleos wallet create`
 * Send us a GitHub PR containing your BP information, we will create your producer account.
@@ -41,7 +41,7 @@ Welcome to join EOSForce Testnet!
 ```
 {
     "bp_name" : "eosforce",
-    "organisation" : "EOSForce.io",
+    "organisation" : "EOS原力 EOSForce",
     "location" : "Hangzhou, China",
     "node_addr" : "eosio.eosfore.io",
     "port_http" : "8888",
