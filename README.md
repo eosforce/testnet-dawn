@@ -48,7 +48,7 @@ Welcome to join EOSForce Testnet!
     "port_ssl" : "",
     "port_p2p" : "9876",
     "pub_key" : "EOS6VhjNxYTRNDCHV8Mm1H8c6SzoRre6KfNydpheo4N59xxXajfsr",
-    "bp" : true,
+    "bp" : false,
     "enabled" : true,
     "site" : "http://www.eosforce.io/",
     "telegram" : "https://t.me/eosforce",
