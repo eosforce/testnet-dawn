@@ -1,4 +1,4 @@
 {
-  "producer": "your-producer-name",
-  "producer_key": "your-eos-public-key"
+  "producer": "eostore",
+  "producer_key": "EOS7pBE74eNFfTxkE3yXCHbDwVMzPUDYcYiRzpBDN6pjVvNtX5QF5"
 }
