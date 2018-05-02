@@ -42,7 +42,7 @@ Welcome to join EOSForce Testnet!
 {
     "bp_name" : "eosforce",
     "organisation" : "EOS原力 EOSForce",
-    "location" : "Hangzhou, China",
+    "location" : "中国, 杭州",
     "node_addr" : "eosio.eosfore.io",
     "port_http" : "8888",
     "port_ssl" : "",
