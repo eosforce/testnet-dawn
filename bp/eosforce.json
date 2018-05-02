@@ -1,15 +1,15 @@
 {
-    "bp_name" : "chainpool",
-    "organisation" : "ChainPool.io",
-    "location" : "Hangzhou, China",
-    "node_addr" : "ortc.io",
-    "port_http" : "8888",
-    "port_ssl" : "",
-    "port_p2p" : "9876",
-    "pub_key" : "EOS6VhjNxYTRNDCHV8Mm1H8c6SzoRre6KfNydpheo4N59xxXajfsr",
-    "bp" : true,
-    "enabled" : true,
-    "site" : "https://chainpool.io",
-    "telegram" : "https://t.me/chainpool",
-    "comment" : ""
+    "bp_name": "eosforce",
+    "organisation": "EOS原力 EOSForce",
+    "location": "Hangzhou, China",
+    "node_addr": "ortc.io",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876",
+    "pub_key": "EOS51bLj5K8qQgcwxMHquB15q2rrhfkCkWC5MSbJ58wmp2BUY9SVz",
+    "bp": true,
+    "enabled": true,
+    "site": "http://eosforce.io",
+    "telegram": "https://t.me/eosforce",
+    "comment": ""
 }
