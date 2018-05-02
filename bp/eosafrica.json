@@ -7,7 +7,7 @@
 "port_ssl" : "",
 "port_p2p" : "9876",
 "pub_key" : "EOS6rbqSqkLPP7bNn91mNEVrTnNRBA6eJTnS57Jbzn6bMuVpXj7qi",
-"bp" : true,
+"bp" : false,
 "enabled" : true,
 "site" : "",
 "telegram" : "",
