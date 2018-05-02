@@ -1,0 +1,15 @@
+{
+"bp_name" : "eosafrica",
+"organisation" : "eosafrica",
+"location" : "africa",
+"node_addr" : "47.93.16.189",
+"port_http" : "8888",
+"port_ssl" : "",
+"port_p2p" : "9876",
+"pub_key" : "EOS6rbqSqkLPP7bNn91mNEVrTnNRBA6eJTnS57Jbzn6bMuVpXj7qi",
+"bp" : true,
+"enabled" : true,
+"site" : "",
+"telegram" : "",
+"comment" : ""
+}
