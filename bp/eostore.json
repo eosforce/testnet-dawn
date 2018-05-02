@@ -1,0 +1,15 @@
+{
+    "bp_name": "eostore",
+    "organisation": "EOS商店 EOS Store",
+    "location": "中国北京",
+    "node_addr": "13.230.91.225",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876",
+    "pub_key": "EOS7pBE74eNFfTxkE3yXCHbDwVMzPUDYcYiRzpBDN6pjVvNtX5QF5",
+    "bp": true,
+    "enabled": true,
+    "site": "https://www.eos.store",
+    "telegram": "https://t.me/StoreEos",
+    "comment": ""
+}
