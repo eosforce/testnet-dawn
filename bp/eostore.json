@@ -7,7 +7,7 @@
     "port_ssl": "",
     "port_p2p": "9876",
     "pub_key": "EOS7pBE74eNFfTxkE3yXCHbDwVMzPUDYcYiRzpBDN6pjVvNtX5QF5",
-    "bp": true,
+    "bp": false,
     "enabled": true,
     "site": "https://www.eos.store",
     "telegram": "https://t.me/StoreEos",
