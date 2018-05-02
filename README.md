@@ -12,6 +12,7 @@ Welcome to join EOSForce Testnet!
 * Apply to us.
 
 ## Run a node with Docker
+* NOTE: your BP producer name must be between a-z lowercase letters, and length must be less than 12.
 * Generate your EOS key pair: <https://nadejde.github.io/eos-token-sale/>
 * `git clone https://github.com/eosforce/EOSForce-Testnet.git`
 * `cd EOSForce-Testnet`
