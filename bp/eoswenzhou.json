@@ -1,0 +1,15 @@
+{
+    "bp_name" : "eoswenzhou",
+    "organisation" : "EOS温州",
+    "location" : "中国, 香港",
+    "node_addr" : "121.196.208.250",
+    "port_http" : "6689",
+    "port_ssl" : "",
+    "port_p2p" : "6679",
+    "pub_key" : "EOS811eDaZQEc5Yby35DPnv3W5QkZffSEGxT2w21W388uMnzaNFZZ",
+    "bp" : false,
+    "enabled" : true,
+    "site" : "http://www.eoswz.com",
+    "telegram" : "https://t.me/eoswenzhou",
+    "comment" : ""
+}
