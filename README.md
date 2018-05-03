@@ -25,6 +25,7 @@ Welcome to join EOSForce Testnet!
 ## Register as a candidate BP
 * `docker exec -it eosforce bash`
 * `cleos wallet create`
+* `cleos wallet import <your-private-key>`
 * Send us a GitHub PR containing your BP information, we will create your producer account.
 * `cleos push action eosio regproducer "$(cat regproducer.json)" -p <your-producer-name>`
 * NOTE: If you find it difficult to do it, you can also send your desired <producer-name> and your EOS key pair to us, we help you to register BP, or do it by your own. Contract us in the telegram group <https://t.me/EOSForce> and contract [@eosforceio](https://t.me/eosforceio).
