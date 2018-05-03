@@ -1,0 +1,15 @@
+{
+    "bp_name": "eosbeijing",
+    "organisation": "EOS Beijing",
+    "location": "中国, 北京",
+    "node_addr": "www.eosbeijing.one",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876",
+    "pub_key": "EOS6q3CV1Wv4nxwjw1No7M22CcM7AeRM2eZdaaNqsEmouD3saMArj",
+    "bp": false,
+    "enabled": true,
+    "site": "http://www.eosbeijing.one/",
+    "telegram": "https://t.me/eosforce",
+    "comment": ""
+}
