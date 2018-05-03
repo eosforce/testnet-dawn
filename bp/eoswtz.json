@@ -1,0 +1,15 @@
+{
+    "bp_name": "eoswtzz",
+    "organisation": "EOS WTZ",
+    "location": "中国, 南京",
+    "node_addr": "23.22.71.127",
+    "port_http": "9201",
+    "port_ssl": "",
+    "port_p2p": "9202",
+    "pub_key": "EOS6FpBwMxyi3hAS1bMbXkYppEFETS4sDHoWgPSSJN4KXEsvgBjrz",
+    "bp": false,
+    "enabled": true,
+    "site": "http://www.eoswtz.com/",
+    "telegram": "https://t.me/StoreEos",
+    "comment": ""
+}
