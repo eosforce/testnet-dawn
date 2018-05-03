@@ -1,0 +1,15 @@
+{
+    "bp_name" : "eostea",
+    "organisation" : "EOS中文社区 eosfans.io",
+    "location" : "香港",
+    "node_addr" : "eosfore.eosfans.io",
+    "port_http" : "8889",
+    "port_ssl" : "",
+    "port_p2p" : "9877",
+    "pub_key" : "EOS64v8gJGQwQS3XRMetEbCe1YjywcpRgx5CWvwzVdLGPXm6nChmP",
+    "bp" : true,
+    "enabled" : true,
+    "site" : "https://www.eostea.io/",
+    "telegram" : "https://t.me/eosfanscn",
+    "comment" : "EOS中文社区"
+}
