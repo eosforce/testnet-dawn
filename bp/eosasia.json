@@ -1,0 +1,15 @@
+{
+"bp_name" : "eosasia",
+"organisation" : "eosasia",
+"location" : "亚洲",
+"node_addr" : "bp-test.eosasia.one",
+"port_http" : "9802",
+"port_ssl" : "",
+"port_p2p" : "9803",
+"pub_key" : "EOS65oKGt6w7uRKGHcfkGBv1TnEwXuwu2gcrijaHYV5Qg6iqN4tgZ",
+"bp" : false,
+"enabled" : true,
+"site" : "",
+"telegram" : "",
+"comment" : ""
+}
