@@ -1,0 +1,15 @@
+{
+    "bp_name": "outsider",
+    "organisation": "EOS韭菜元老",
+    "location": "中国, 北京",
+    "node_addr": "159.65.226.240",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876",
+    "pub_key": "EOS5vJYTBwLAtTnK9AjEh2wACWywxxBf8cFQazYqWjtQtevh8Ktm4",
+    "bp": false,
+    "enabled": true,
+    "site": "http://eosoutsider.io",
+    "telegram": "",
+    "comment": ""
+}
