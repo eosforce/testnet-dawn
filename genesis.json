@@ -1,6 +1,6 @@
 {
-  "initial_timestamp": "2018-04-30T00:00:00.000",
-  "initial_key": "EOS6t1iEFJg3Y1WA3hE8dFTrq2e8xjqHb9KpCqTyUy5n4MfF4p8g1",
+  "initial_timestamp": "2018-05-04T00:00:00.000",
+  "initial_key": "EOS7VTGQGDnDVL5VHwt5j2TiqP9EphPHHx3Ph16CG6WRgXwBsinVp",
   "initial_configuration": {
     "base_per_transaction_net_usage": 100,
     "base_per_transaction_cpu_usage": 500,
