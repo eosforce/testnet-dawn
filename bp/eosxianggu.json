@@ -1,0 +1,15 @@
+{
+    "bp_name": "eosxianggu",
+    "organisation": "EOS Xianggu",
+    "location": "中国, 杭州",
+    "node_addr": "47.75.94.221",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876",
+    "pub_key": "EOS8eDTZ8ecfVMZB6AtExukHkLresXJBrRVEn91dgvBxBrM6pYK4f",
+    "bp": false,
+    "enabled": true,
+    "site": "",
+    "telegram": "",
+    "comment": ""
+}
