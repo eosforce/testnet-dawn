@@ -1,0 +1,15 @@
+{
+    "bp_name" : "eosnineties",
+    "organisation" : "eos90s",
+    "location" : "changsha,china",
+    "node_addr" : "47.100.6.5",
+    "port_http" : "8889",
+    "port_ssl" : "",
+    "port_p2p" : "9877",
+    "pub_key" : "EOS73vkhvaNWDyJwJb5zAGADD1Se1d5x2PUn3M1NeRKv6UvuDeGfG",
+    "bp" : false,
+    "enabled" : true,
+    "site" : "http://www.eos90s.io",
+    "telegram" : "https://t.me/EOS90s",
+    "comment" : ""
+}
