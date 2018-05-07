@@ -1,0 +1,15 @@
+{
+    "bp_name" : "eoscube",
+    "organisation" : "EOSCUBE",
+    "location" : "中国, 深圳",
+    "node_addr" : "47.106.168.8",
+    "port_http" : "8889",
+    "port_ssl" : "",
+    "port_p2p" : "9877",
+    "pub_key" : "EOS8AHneN4CWnZ36DEhqZGC1AUsxhFEjgfM2SZ8rpnHwf6u5zdV76",
+    "bp" : false,
+    "enabled" : true,
+    "site" : "http://eoscube.io/",
+    "telegram" : "https://t.me/eoscube",
+    "comment" : ""
+}
