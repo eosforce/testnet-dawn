@@ -1,0 +1,15 @@
+{
+    "bp_name" : "eosnation",
+    "organisation" : "EOS Nation",
+    "location" : "Canada",
+    "node_addr" : "eosforce.eosnation.io",
+    "port_http" : "8888",
+    "port_ssl" : "443",
+    "port_p2p" : "9876",
+    "pub_key" : "EOS8io9pQCCb9oprSwtXMjKhB8qtFLCGymFPo4HeVCUL9xUJu5yEp",
+    "bp" : true,
+    "enabled" : true,
+    "site" : "https://eosnation.io",
+    "telegram" : "https://t.me/EOSNation",
+    "comment" : ""
+}
