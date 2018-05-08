@@ -1,0 +1,15 @@
+{
+    "bp_name" : "eosotodac",
+    "organisation" : "EOS121DAC",
+    "location" : "Australia, Melbourne",
+    "node_addr" : "47.75.183.254",
+    "port_http" : "8888",
+    "port_ssl" : "",
+    "port_p2p" : "9876",
+    "pub_key" : "EOS785g9A3cLkrRyGc7FNH8h5kXNfCSFqeopYEchhmgByMRaKJmYP",
+    "bp" : false,
+    "enabled" : true,
+    "site" : "http://eos121dac.io/",
+    "telegram" : "https://t.me/eos121dac",
+    "comment" : ""
+}
