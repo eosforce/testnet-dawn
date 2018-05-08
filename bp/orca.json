@@ -1,0 +1,15 @@
+{
+"bp_name" : "orca",
+"organisation" : "EOS Galaxy",
+"location" : "中国",
+"node_addr" : "13.113.63.47",
+"port_http" : "8888",
+"port_ssl" : "",
+"port_p2p" : "9876",
+"pub_key" : "EOS5EmMynemBu8MuzyQKcFCM2pHgyaLfcvNi9aUzQxS2Xr1mr69cU",
+"bp" : true,
+"enabled" : true,
+"site" : "",
+"telegram" : "",
+"comment" : ""
+}
