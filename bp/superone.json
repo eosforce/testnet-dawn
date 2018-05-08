@@ -1,0 +1,15 @@
+{
+    "bp_name" : "superone",
+    "organisation" : "SuperONE.io",
+    "location" : "China",
+    "node_addr" : "eos.superone.io",
+    "port_http" : "8898",
+    "port_ssl" : false,
+    "port_p2p" : "9881",
+    "pub_key" : "EOS6e4KFmvuSyCudd8KhuEiSt19Bcoa6kUYCMaT5wBTVPnxyy5Aow",
+    "bp" : true,
+    "enabled" : true,
+    "site" : "https://superone.io",
+    "telegram" : "https://t.me/superoneio",
+    "comment" : ""
+}
