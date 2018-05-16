@@ -1,0 +1,15 @@
+{
+    "bp_name": "geos",
+    "organisation": "GEOS",
+    "location": "新加坡",
+    "node_addr": "testnet.geos.one",
+    "port_http": "",
+    "port_ssl": "9999",
+    "port_p2p": "9888",
+    "pub_key": "EOS8CLZSycVStPxVGnsQaZufvSRva5YJ8BFmNCTLKRATQAHE7F3uo",
+    "bp": false,
+    "enabled": true,
+    "site": "https://www.geos.one",
+    "telegram": "https://t.me/GDEXer",
+    "comment": ""
+}
