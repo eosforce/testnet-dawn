@@ -1,0 +1,15 @@
+{
+    "bp_name": "eosbixin",
+    "organisation": "EOS币信 EOSBIXIN",
+    "location": "泰国, 曼谷",
+    "node_addr": "bpt4.eosbixin.com",
+    "port_http": "38888",
+    "port_ssl": "",
+    "port_p2p": "39876",
+    "pub_key": "EOS7zkph7uUwZqXrTPkHBsYVd2AkVABhF694fWzdArhoR36M1BW7b",
+    "bp": false,
+    "enabled": true,
+    "site": "http://www.eosbixin.com/",
+    "telegram": "https://t.me/EosBixinChat",
+    "comment": "让EOS承载人类全方位价值的发行和流通"
+}
