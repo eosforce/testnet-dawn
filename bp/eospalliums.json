@@ -1,0 +1,15 @@
+{
+    "bp_name" : "eospalliums",
+    "organisation" : "eospalliums.org",
+    "location" : "China",
+    "node_addr" : "peer2.eospalliums.org",
+    "port_http" : "8888",
+    "port_ssl" : false,
+    "port_p2p" : "9876",
+    "pub_key" : "EOS6m2NKLaVxMo9e8fCBau8aXGDRV43E79xf2fxHqbmipDMPufGno",
+    "bp" : true,
+    "enabled" : true,
+    "site" : "http://eospalliums.org",
+    "telegram" : "https://t.me/eospalliums",
+    "comment" : ""
+}
